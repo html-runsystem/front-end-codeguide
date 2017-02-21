@@ -1,6 +1,6 @@
-name:          Code Guide by @mdo
-description:   Standards for developing flexible, durable, and sustainable HTML and CSS.
-url:           http://codeguide.co
+name:          Code Guide
+description:   Front-end các nguyên tắc cơ bản
+url:           https://html-runsystem.github.io/front-end-codeguide/
 
 markdown:      rdiscount
 permalink:     pretty
